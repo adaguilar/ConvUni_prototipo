@@ -1,4 +1,4 @@
-CPython==3.7
+CPython==3.6
 IPython==7.19.0
 matplotlib==3.3.0
 ipywidgets==7.5.1
